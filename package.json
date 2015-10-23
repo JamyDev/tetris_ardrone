@@ -1,0 +1,23 @@
+{
+  "name": "tetris_ardrone",
+  "version": "1.0.0",
+  "description": "Tetris flies the Beam AR Drone",
+  "private": true,
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamyDev/tetris_ardrone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamyDev/tetris_ardrone/issues"
+  },
+  "homepage": "https://github.com/JamyDev/tetris_ardrone#readme",
+  "dependencies": {
+    "beam-client-node": "git+https://github.com/WatchBeam/beam-client-node.git"
+  }
+}

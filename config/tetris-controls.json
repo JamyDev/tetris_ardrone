@@ -1,0 +1,90 @@
+{
+  "reportInterval": 20,
+  "joystick": [
+      {
+        "axis": 1,
+        "analysis": [1]
+      },
+      {
+        "axis": 2,
+        "analysis": [1]
+      }
+  ],
+  "tactile": [
+    {
+      "key": 87,
+      "up": true,
+      "down": true,
+      "analysis": [
+        1
+      ],
+      "grid": {
+        "text": "FWD",
+        "help": "Makes the drone tilt forwards.",
+        "x": 2,
+        "y": 3,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "key": 83,
+      "up": true,
+      "down": true,
+      "analysis": [
+        1
+      ],
+      "grid": {
+        "text": "BWD",
+        "help": "Makes the drone tilt backwards.",
+        "x": 2,
+        "y": 4,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "key": 65,
+      "up": true,
+      "down": true,
+      "analysis": [
+        1
+      ],
+      "grid": {
+        "text": "LEFT",
+        "help": "Makes the drone tilt left.",
+        "x": 1,
+        "y": 4,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "key": 68,
+      "up": true,
+      "down": true,
+      "analysis": [
+        1
+      ],
+      "grid": {
+        "text": "RIGHT",
+        "help": "Makes the drone tilt right.",
+        "x": 3,
+        "y": 4,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ],
+  "grid": {
+    "width": 14,
+    "height": 4,
+    "joystick": {
+      "help": "",
+      "x": 12,
+      "y": 2,
+      "width": 3,
+      "height": 3
+    }
+  }
+}
