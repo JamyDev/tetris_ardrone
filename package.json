@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JamyDev/tetris_ardrone#readme",
   "dependencies": {
     "beam-client-node": "git+https://github.com/WatchBeam/beam-client-node.git",
+    "beam-interactive-node": "0.0.1",
     "request-promise": "^1.0.2"
   }
 }
